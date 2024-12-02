@@ -1,0 +1,10 @@
+[package]
+name = "wallpaper"
+version = "0.0.2"
+authors = ["samic++"]
+edition = "2021"
+description = "switch background periodically"
+
+
+[dependencies]
+rand = "0.8.5"
